@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GPR_UE3/1.0.0": {
+        "runtime": {
+          "GPR_UE3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GPR_UE3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

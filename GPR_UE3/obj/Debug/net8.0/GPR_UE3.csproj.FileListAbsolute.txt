@@ -1,0 +1,14 @@
+C:\Users\halil\OneDrive\Desktop\FH_BFI\GPR\GPR_UE3\GPR_UE3\bin\Debug\net8.0\GPR_UE3.exe
+C:\Users\halil\OneDrive\Desktop\FH_BFI\GPR\GPR_UE3\GPR_UE3\bin\Debug\net8.0\GPR_UE3.deps.json
+C:\Users\halil\OneDrive\Desktop\FH_BFI\GPR\GPR_UE3\GPR_UE3\bin\Debug\net8.0\GPR_UE3.runtimeconfig.json
+C:\Users\halil\OneDrive\Desktop\FH_BFI\GPR\GPR_UE3\GPR_UE3\bin\Debug\net8.0\GPR_UE3.dll
+C:\Users\halil\OneDrive\Desktop\FH_BFI\GPR\GPR_UE3\GPR_UE3\bin\Debug\net8.0\GPR_UE3.pdb
+C:\Users\halil\OneDrive\Desktop\FH_BFI\GPR\GPR_UE3\GPR_UE3\obj\Debug\net8.0\GPR_UE3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\OneDrive\Desktop\FH_BFI\GPR\GPR_UE3\GPR_UE3\obj\Debug\net8.0\GPR_UE3.AssemblyInfoInputs.cache
+C:\Users\halil\OneDrive\Desktop\FH_BFI\GPR\GPR_UE3\GPR_UE3\obj\Debug\net8.0\GPR_UE3.AssemblyInfo.cs
+C:\Users\halil\OneDrive\Desktop\FH_BFI\GPR\GPR_UE3\GPR_UE3\obj\Debug\net8.0\GPR_UE3.csproj.CoreCompileInputs.cache
+C:\Users\halil\OneDrive\Desktop\FH_BFI\GPR\GPR_UE3\GPR_UE3\obj\Debug\net8.0\GPR_UE3.dll
+C:\Users\halil\OneDrive\Desktop\FH_BFI\GPR\GPR_UE3\GPR_UE3\obj\Debug\net8.0\refint\GPR_UE3.dll
+C:\Users\halil\OneDrive\Desktop\FH_BFI\GPR\GPR_UE3\GPR_UE3\obj\Debug\net8.0\GPR_UE3.pdb
+C:\Users\halil\OneDrive\Desktop\FH_BFI\GPR\GPR_UE3\GPR_UE3\obj\Debug\net8.0\GPR_UE3.genruntimeconfig.cache
+C:\Users\halil\OneDrive\Desktop\FH_BFI\GPR\GPR_UE3\GPR_UE3\obj\Debug\net8.0\ref\GPR_UE3.dll
